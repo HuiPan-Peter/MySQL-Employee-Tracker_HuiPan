@@ -50,17 +50,17 @@ THEN I am prompted to select an employee to update and their new role and this i
     "inquirer": "^8.2.4",
     "mysql2": "^3.2.4"
   };
-- 3.Under node command-line run ```npm i``` to install express and uuid;
+- 3.Under node command-line run ```npm i``` to install dotenv, inquirer and mysql2;
 
 ## Usage
 - 1.Create a file in the root directory titled ".env" and assign your own "DB_NAME","DB_PASSWORD" and "DB_USER"
 - 2.Under db directory, type "mysql -u root -p" in the terminal and enter your personal MySQL password. Next, type "source schema.sql" and "source seeds.sql" to create the employee_db database with mock data.
-- 3.Under root directory, run bash command ``` npm start ``` to start the express server;
+- 3.Under root directory, run bash command ``` npm start ``` to start the application;
 - 4.Follow the Inquirer prompts, select a desired task;
 - 5.When you completed a series of tasks, choose "EXIT" to quit the application from prompt list;
 ---
 ## Walkthrough Video Demo and Screenshot of the Application
-[https://github.com/HuiPan-Peter/Express-Note-Taker_HuiPan/tree/main/public/assets/videoDemo%26screenshot](https://github.com/HuiPan-Peter/Express-Note-Taker_HuiPan/tree/main/public/assets/videoDemo%26screenshot)
+[https://github.com/HuiPan-Peter/MySQL-Employee-Tracker_HuiPan/tree/main/videoDemo%26screenshot](https://github.com/HuiPan-Peter/MySQL-Employee-Tracker_HuiPan/tree/main/videoDemo%26screenshot)
 ---
 ## Contributions
 

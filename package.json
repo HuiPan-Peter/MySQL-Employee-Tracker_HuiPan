@@ -1,7 +1,7 @@
 {
-  "name": "employee-tracker",
+  "name": "MySQL-Employee-Tracker_HuiPan",
   "version": "1.0.0",
-  "description": "",
+  "description": "This Application was built with Node.js, Inquirer, and MySQL, and is used for manage employee data by a command line Content Management System",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://"
+    "url": "git+https://github.com/HuiPan-Peter/MySQL-Employee-Tracker_HuiPan"
   },
   "author": "HuiPan",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://issues"
-  },
-  "homepage": "#readme",
+  "license": "MIT",
+  "homepage": "https://github.com/HuiPan-Peter/MySQL-Employee-Tracker_HuiPan/blob/main/README.md",
   "dependencies": {
     "dotenv": "^8.2.0",
     "inquirer": "^8.2.4",
