@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://"
+  },
+  "author": "HuiPan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://issues"
+  },
+  "homepage": "#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.4"
+  }
+}
